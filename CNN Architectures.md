@@ -91,8 +91,6 @@ LeNet-5 was designed to automatically extract features from images through a seq
 - **Performance Score:**  
   On the MNIST dataset, LeNet-5 achieves high accuracy (typically around 99%), demonstrating strong performance for digit recognition tasks.
 
-
-
 # AlexNet (2012)
 
 ![](https://neurohive.io/wp-content/uploads/2018/10/AlexNet-1.png)
@@ -235,8 +233,6 @@ The architecture is designed to process large-scale images and classify them int
 | Out        | 1000  | –       | –           | –      | softmax    |
 
 - The kernel size for the first convolutional layer is reduced to 7×7 compared to AlexNet, with a stride of 2.
-  
-  
 
 ### 1. **Explanation of ZFNet Architecture**
 
@@ -430,8 +426,6 @@ Additionally, the **repeated max-pooling** gradually reduces the spatial dimensi
   - VGG-19's performance was only slightly better than VGG-16, with diminishing returns on adding more layers beyond 16.
 
 # GoogLeNet/Inception (2014)
-
-
 
 ### 1. **Explanation of GoogLeNet/Inception Architecture**
 
